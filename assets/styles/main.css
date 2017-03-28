@@ -1,0 +1,16 @@
+.cookies {
+  color: #954535;
+  font-size: 60px;
+  font-style: italic;
+}
+
+body {
+  font-family: 'Arial';
+  text-align: center;
+}
+
+.modify-bullets {
+  width: 600px;
+  margin: 0 auto;
+  text-align: left;
+}
